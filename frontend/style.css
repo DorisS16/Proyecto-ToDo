@@ -1,0 +1,10 @@
+.field{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.task {
+    margin-bottom: 10px;
+}
+.task.completed {
+    text-decoration: line-through;
+}
